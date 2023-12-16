@@ -1,0 +1,6 @@
+dblp/output_csv
+dblp/dblp.xml
+dblp/dblp.dtd
+dblp/output_filter_year
+*.csv
+*.json

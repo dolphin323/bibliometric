@@ -1,0 +1,30 @@
+Date of citation collection from openalex api 11 December
+
+2024-01-01
+
+
+Inf. Softw. Technol. (journal)
+ICSA, ICSA-C, ICSA Companion (booktitle)
+J. Syst. Softw. (journal)
+ASE (booktitle)
+ESOP (booktitle)
+IEEE Trans. Software Eng. (journal)
+ICSE, ICSE Companion, ICSE-Companion, ICSE (Companion Volume) (booktitle)
+Softw. Pract. Exp. (journal)
+SANER (booktitle)
+Softw. Test. Verification Reliab. (journal)
+XP, XP Workshop (booktitle)
+ACM Trans. Program. Lang. Syst. (journal) (TOPLAS)
+ACM Trans. Softw. Eng. Methodol. (journal) (TOSEM)
+ISSTA (booktitle)
+J. Softw. Evol. Process. (journal)
+CGO (booktitle)
+Int. J. Softw. Tools Technol. Transf. (journal)
+Empir. Softw. Eng. (journal)
+ FSE (booktitle) (finished with)
+ESEM (booktitle)
+ICSME (booktitle)
+PEPM@POPL (booktitle)
+EASE (booktitle)
+FASE (booktitle)
+J. Softw. Evol. Process. (journal)

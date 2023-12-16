@@ -1,0 +1,58 @@
+Data of collection: 7 December
+
+____________________________________
+
+Search criteria:
+
+- Years 2020 - 2024
+- Document type:
+    - conference paper
+    - articles
+
+____________________________________
+To double-check the process, we have exported all
+articles published in the selected venues, based on Scopus (using
+the export to CSV functionality).
+____________________________________
+
+From Scopus, we have retained
+information on the type of article: research, editorial, review, etc.
+that is used in the next step of the process.
+____________________________________
+
+Information and Software Technology (IST) 
+International Conference on Software Architecture (ICSA)
+Journal of Systems and Software (JSS) 
+Automated Software Engineering Conference (ASE)
+IEEE Software (SW) European Symposium on Programming (ESOP)
+IEEE Transactions on Software Engineering (TSE) 
+International Conference on Software Engineering (ICSE)
+Software: Practice and Experience (SPE) 
+IEEE International Conference On Software Analysis Evolution And Reengineering (SANER)
+Software Testing, Verification and Reliability (STVR) 
+International Conference on extreme Programming (XP)
+Transactions on Programming Languages and Systems (TOPLAS) 
+Transactions on Software Engineering and Methodology (TOSEM) 
+International Symposium on Software Testing and Analysis (ISSTA)
+Journal of Software: Evolution and Process (JSEP)
+International Symposium on Code Generation & Optimization (CGO)
+International Journal on Software Tools for Technology Transfer (STTT) 
+Empirical Software Engineering (EMSE) 
+International Symposium on the Foundations of Software Engineering (FSE)
+International Symposium on Empirical Software Engineering and Measurement (ESEM)
+International Conference on Software Maintenance and Evolution (ICSME)
+Symposium on Principles of Programming Languages (POPL)
+International Conference on Evaluation and Assessment in Software Engineering (EASE)
+Fundamental Approaches to Software Engineering (FASE)
+Journal of Software Maintenance and Evolution (JSME)
+
+____________________________________
+EXCLUDE (not in scopus, but it is in dblp):
+Conference on Agile Software Development (AGILE) - missed
+Journal of Software Maintenance and Evolution (JSME)
+
+____________________________________
+Conference on the Quality of Software Architectures (QoSA) - IEEE/IFIP Working Conference on Software Architecture (WICSA) - International Symposium
+Component-Based Software Engineering (CBSE)
+European Conference on Software Maintenance and Reengineering (CSMR) jointed with Working Conference on Reverse Engineering (WCRE).
+____________________________________
